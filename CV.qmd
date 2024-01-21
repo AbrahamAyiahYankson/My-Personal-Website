@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 ## Contact Information
 
-{{< fa envelope >}}                [aayankson@mun.ca](mailto:aayankson@mun.ca)
+                                      [aayankson@mun.ca]
 
                                       Department of Economics
                                       
