@@ -4,16 +4,13 @@ about:
   template: jolla
   id: about-block
   image: "My image.pg.jpeg"
-  
 ---
 
 ::: {#about-block}
 :::
 
-
-
-### About 
+### About
 
 I am Abraham Ayiah Yankson, Master of Arts in Economics student at the Memorial University of Newfoundland, Department of Economics. I also hold bachelor of arts degree in Economics from the University of Ghana, Legon.
 
----
+------------------------------------------------------------------------

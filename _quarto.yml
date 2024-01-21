@@ -1,3 +1,7 @@
+head:
+  includes:
+    - "<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css' integrity='sha384-ezH3wnf3A4PUc8MQ7D8lIf9d6jbVC8Sb8bI4SzG2erq16UqWNyzS04qivI7E2KWEn' crossorigin='anonymous'>"
+
 project:
   type: website
   output-dir: docs
@@ -8,6 +12,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: CV.qmd
+        text: CV
+        icon: "<i class='fas fa-user-tie'></i>"
+        
     
 
 format:
