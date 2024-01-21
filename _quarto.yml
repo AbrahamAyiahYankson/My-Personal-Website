@@ -9,6 +9,8 @@ project:
 website:
   title: "Abraham Ayiah Yankson"
   navbar:
+    background: success
+    search: true
     left:
       - href: index.qmd
         text: Home
