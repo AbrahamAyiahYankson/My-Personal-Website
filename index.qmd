@@ -1,11 +1,19 @@
 ---
-title: "My Personal Website"
+title: "Abraham Ayiah Yankson"
+::: {.column width="60%"}
+about:
+  template: jolla
+  id: about-block
+  image: "My image.pg.jpeg"
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+### About 
+
+I am Abraham Ayiah Yankson, Master of Arts in Economics student at the Memorial University of Newfoundland, Department of Economics. I also hold bachelor of arts degree in Economics from the University of Ghana, Legon.
+
+---
