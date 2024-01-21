@@ -55,7 +55,7 @@ title: "Curriculum Vitae"
 ## Skills
 - Stata 
 
-- latex
+- Latex and Beamer.
 
 - R and Quarto
 
