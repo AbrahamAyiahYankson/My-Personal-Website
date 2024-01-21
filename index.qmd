@@ -1,6 +1,5 @@
 ---
 title: "Abraham Ayiah Yankson"
-::: {.column width="60%"}
 about:
   template: jolla
   id: about-block
