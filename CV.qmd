@@ -20,6 +20,8 @@ title: "Curriculum Vitae"
 
 ## Academic Profiles and Website
 
+- {{< fa user >}} Personal Website: [https://abrahamayiahyankson.github.io/My-Personal-Website/](https://abrahamayiahyankson.github.io/My-Personal-Website/).
+
 ## Education
 
 - MA Economics (2023), Memorial University of Newfoundland;
