@@ -4,6 +4,7 @@ about:
   template: jolla
   id: about-block
   image: "My image.pg.jpeg"
+  
 ---
 
 ::: {#about-block}
