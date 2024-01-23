@@ -4,17 +4,16 @@ title: "Curriculum Vitae"
 
 ## Contact Information
 
-                                      [aayankson@mun.ca]
+{{< fa envelope >}} [aayankson@mun.ca](mailto:aayankson@mun.ca)
 
-                                      Department of Economics
-                                      
-                                      Memorial University of Newfoundland
-                                      
-                                      215A Empire Avenue
-                                      
-                                      St.John's, NL, Canada
-                                      
-                                      A1C 3H3
+{{< fa phone >}} (709) 853-7137
+
+{{< fa paper-plane >}} Department of Economics   
+&nbsp;&nbsp;&nbsp;&nbsp; Memorial University of Newfoundland   
+&nbsp;&nbsp;&nbsp;&nbsp; 215A Empire Avenue   
+&nbsp;&nbsp;&nbsp;&nbsp; St. John's, NL, Canada   
+&nbsp;&nbsp;&nbsp;&nbsp; A1C 3H3
+
                                       
 
 
