@@ -31,6 +31,7 @@ website:
 format:
   html:
     theme: simplex
+    mainfont: arial
     css: styles.css
     toc: true
 
