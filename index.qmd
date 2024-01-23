@@ -1,16 +1,28 @@
 ---
-title: "Abraham Ayiah Yankson"
-about:
-  template: jolla
-  id: about-block
-  image: "My image.pg.jpeg"
+title: ""
+format:
+  html: 
+    include-in-header: AAY Script.Rhtml
+  
 ---
 
-::: {#about-block}
+
+
+::: columns
+::: {.column width="40%"}
+  ![](My image.pg.jpeg)
 :::
 
-### About
+::: {.column width="60%"}
 
-I am Abraham Ayiah Yankson, Master of Arts in Economics student at the Memorial University of Newfoundland, Department of Economics. I also hold bachelor of arts degree in Economics from the University of Ghana, Legon.
+### Abraham Ayiah Yankson, MA Economics Candidate
 
-------------------------------------------------------------------------
+**Graduate Research and Teaching Assistant**\
+Department of Economics\
+Memorial University of Newfoundland
+
+**Founder and President**\
+Non-Governmental Organization\
+Care for Humanity Initiative Foundation Ghana
+:::
+:::
