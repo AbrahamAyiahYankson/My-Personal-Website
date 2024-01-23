@@ -14,15 +14,24 @@ format:
 :::
 
 ::: {.column width="60%"}
-
 ### Abraham Ayiah Yankson, MA Economics Candidate
 
 **Graduate Research and Teaching Assistant**\
 Department of Economics\
 Memorial University of Newfoundland
 
+
 **Founder and President**\
 Non-Governmental Organization\
 Care for Humanity Initiative Foundation Ghana
 :::
 :::
+
+
+## About
+
+I am Abraham Ayiah Yankson, a master of arts in economics student at the Memorial University of Newfoundland, Department of Economics. I also hold bachelor of arts degree in economics from the University of Ghana, Legon.
+
+
+
+
